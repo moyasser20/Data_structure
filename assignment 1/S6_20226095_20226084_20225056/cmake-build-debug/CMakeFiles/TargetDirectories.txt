@@ -1,0 +1,3 @@
+C:/Mohamed Yasser programming/CLionProjects/Data structure/Assignments/assignment 1/S6_20226095_20226084_20225056/cmake-build-debug/CMakeFiles/S6_20226095_20226084_20225056.dir
+C:/Mohamed Yasser programming/CLionProjects/Data structure/Assignments/assignment 1/S6_20226095_20226084_20225056/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Mohamed Yasser programming/CLionProjects/Data structure/Assignments/assignment 1/S6_20226095_20226084_20225056/cmake-build-debug/CMakeFiles/rebuild_cache.dir

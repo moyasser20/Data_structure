@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.26)
+project(S6_20226095_20226084_20225056)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(S6_20226095_20226084_20225056 main.cpp
+        S6_20226095_20226084_20225056.cpp)
